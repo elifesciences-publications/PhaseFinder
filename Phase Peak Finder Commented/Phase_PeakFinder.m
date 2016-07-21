@@ -1,3 +1,5 @@
+%Author : Sarav Shah
+
 %This program will go through your input signal and will determine the onset time for phase 1, phase 2, and phase 3 in pupal ecdysis. 
 
 
