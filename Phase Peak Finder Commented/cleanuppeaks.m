@@ -1,3 +1,5 @@
+%Author : Sarav Shah
+
 %This program will take in your peaks and times, from Phase_peakFinder
 %program and display them in two columns. The first column being your peak
 %times and the second column being your peak intensity values. 
