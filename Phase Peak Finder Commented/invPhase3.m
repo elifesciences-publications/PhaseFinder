@@ -1,3 +1,4 @@
+%Author : Sarav Shah
 
 load Exploratory_data.mat
 data3 = DFF_WP{:,2:end-1};
