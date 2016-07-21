@@ -50,7 +50,7 @@ for k = 1;
 end
         
 
-%run('invPhase3');
+run('invPhase3');
 
 
 clearvars -except phase1 phase2 phase3 interphase
