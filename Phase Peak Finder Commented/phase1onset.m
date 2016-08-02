@@ -68,7 +68,7 @@ end
 [lB,rB] = size(dR_M);
 dR_M(:,2:rB)=[];
 
-%Final file to look at load RkSingles_729_4.mat
+%Final file to look at load data
 %is the dR_M. This output file contains each onset
 %time for each column of the data set. It should be x rows by 1 column.
 %Each row is  the onset time for the correspond column. 
