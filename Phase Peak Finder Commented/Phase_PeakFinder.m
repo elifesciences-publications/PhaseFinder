@@ -7,10 +7,10 @@
 % Load the data set you are working with. Columns should be samples, and Rows should be time.
 
 load Exploratory_data.mat
-data = DFF_WP{:,2:end-1};
-%data = bruh;
+data = DFF_WP
+
 timeset = Rk_TL; 
-%timeset = time;
+
 
 
 
