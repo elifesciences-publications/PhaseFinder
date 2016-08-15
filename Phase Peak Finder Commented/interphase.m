@@ -1,4 +1,4 @@
-%This program will tell you the onset of phase 3 by using the frequency,
+%This program will tell you the onset of the interphase by using the frequency,
 %number of peaks divided by the interval of time. 
 
 
@@ -110,7 +110,7 @@ for k = numcol
             end
             time_var = eval(sprintf('T%d', k));
             frequency = time_var(dR_indices(k,i),1);
-            phase3(k, 1:numel(frequency)) = frequency;
+            interphase(k, 1:numel(frequency)) = frequency;
         end
 
     end
