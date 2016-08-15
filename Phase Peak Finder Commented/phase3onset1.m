@@ -143,6 +143,6 @@ end;
 
 for k = numcol;
     intertime = invTime(dR_index(k,1));
-    interphase(k,1) = intertime;
+    phase3(k,1) = intertime;
 end
 
