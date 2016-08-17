@@ -54,6 +54,6 @@ end
 run('phase3onset');
 
 
-%clearvars -except phase1 phase2 phase3 interphase
+clearvars -except phase1 phase2 phase3 interphase
 
 
