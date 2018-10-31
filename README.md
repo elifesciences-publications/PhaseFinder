@@ -1,3 +1,8 @@
+
+### This code is associated with the paper from Diao et al., "Neuromodulatory connectivity defines the structure of a behavioral neural network". eLife, 2017. http://dx.doi.org/10.7554/eLife.29797
+
+
+
 #Introduction:
 The overall goal of these programs is to help you determine the phase onset times in the three behavioral sequences of pupal ecdysis: Pre-Ecdysis (Phase1), Ecdysis (Phase2), transitions phase, (interphase), and post-ecdysis (phase3). The Phase_PeakFinder program calls the phase1onset, phase2onset, and phase3onset after setting the parameters. InvPhase3TransitionOffset tells you the onset of the interphase, between phase 2 and phase 3. Using your calcium data time course, these programs will reliably be able to tell you the onset of phase 1, 2, 3, and the interphase. The input signal I am using is whole animal calcium data, not single cell. In my case I used Rickets/bursicon neurons. 
 
